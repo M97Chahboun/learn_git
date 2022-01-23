@@ -1,3 +1,6 @@
 test merge
 tested
 add more line from master
+test merge
+test merge
+test merge
